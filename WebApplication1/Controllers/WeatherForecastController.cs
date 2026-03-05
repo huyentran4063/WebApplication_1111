@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-
+//xin chào - tôi là chuyên gia AI
 namespace WebApplication1.Controllers
 {
     [ApiController]
